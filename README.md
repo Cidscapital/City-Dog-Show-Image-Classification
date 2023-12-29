@@ -23,7 +23,7 @@ Time the execution of each algorithm, considering the trade-off between accuracy
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/city-dog-show-classification.git](https://github.com/Cidscapital/City-Dog-Show-Image-Classification.git)
+   git clone https://github.com/Cidscapital/City-Dog-Show-Image-Classification.git
    cd city-dog-show-classification
    ```
 
