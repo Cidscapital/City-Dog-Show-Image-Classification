@@ -44,6 +44,6 @@ Time the execution of each algorithm, considering the trade-off between accuracy
 - Similar-looking dog breeds may pose a challenge; consider this when interpreting results.
 
 ## Project Structure
-- `classifier.py: Contains the provided classifier function for image classification.
-- test_classifier.py: Example program demonstrating how to use the classifier function.
-- requirements.txt: Dependencies required for running the project.
+- `classifier.py`: Contains the provided classifier function for image classification.
+- `test_classifier.py`: Example program demonstrating how to use the classifier function.
+- `requirements.txt`: Dependencies required for running the project.
